@@ -20,6 +20,8 @@ function currentLine(katzDeliLine){
   }
   else{
     var lineNames = []
-    return ("The line is currently " + )
+    for(var n = 0; n ){
+      
+    }
   }
 }
