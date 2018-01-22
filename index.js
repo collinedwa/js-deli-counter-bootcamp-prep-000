@@ -20,7 +20,7 @@ function currentLine(katzDeliLine){
   }
   else{
     var lineNames = []
-    for(var n = 0; n ){
+    for(var n = 0; n < katzDeliLine.length; n++){
       
     }
   }
