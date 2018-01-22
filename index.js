@@ -5,7 +5,7 @@ function takeANumber(katzDeliLine, p){
 }
 
 function nowServing(katzDeliLine, i){
-  for(i = katzDeliLine.length; i >= 1;){
+  if(katzDeliLine.length === 0){
     katzDeliLine[0]
     katzDeliLine.shift()
   }
